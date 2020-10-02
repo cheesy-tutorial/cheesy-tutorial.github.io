@@ -27,7 +27,7 @@ const config = {
 		      </div>
 		    </a>
 		  </li>`,
-    links: [{ text: '', link: '' }],
+    links: [{ text: 'aaa', link: 'CICD' }],
     search: {
       enabled: false,
       indexName: '',
@@ -41,7 +41,9 @@ const config = {
       '/CICD',
     ],
     collapsedNav: [
+      '/CICD',
       '/CICD/Bamboo',
+      '/CICD/Bamboo22',
     ],
     links: [{ text: 'Hasura', link: 'https://hasura.io' }],
     frontline: true,
