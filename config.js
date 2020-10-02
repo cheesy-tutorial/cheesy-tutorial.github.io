@@ -38,15 +38,14 @@ const config = {
   },
   sidebar: {
     forcedNavOrder: [
-      '/introduction', // add trailing slash if enabled above
-      '/codeblock',
+      '/CICD',
     ],
     collapsedNav: [
-      '/codeblock', // add trailing slash if enabled above
+      '/CICD/Bamboo',
     ],
     links: [{ text: 'Hasura', link: 'https://hasura.io' }],
-    frontline: false,
-    ignoreIndex: true,
+    frontline: true,
+    ignoreIndex: false,
     title:
       "<a href='https://hasura.io/learn/'>graphql </a><div class='greenCircle'></div><a href='https://hasura.io/learn/graphql/react/introduction/'>react</a>",
   },
