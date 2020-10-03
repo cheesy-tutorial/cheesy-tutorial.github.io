@@ -1,5 +1,5 @@
 require("dotenv").config();
-const queries = require("./configs/utils/algoliaa");
+const queries = require("./configs/utils/algolia");
 const config = require("./config");
 const plugins = [
   'gatsby-plugin-sitemap',
