@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://dev-gwang.github.io/develop/community</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://dev-gwang.github.io/develop/community/2_python_dev</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://dev-gwang.github.io/develop/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://dev-gwang.github.io/develop/community/1_kakao_chatting</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://dev-gwang.github.io/develop/community/3_etc</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://dev-gwang.github.io/develop/community/4_javascript</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://dev-gwang.github.io/develop/community/5_community</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://dev-gwang.github.io/develop/community/6_nodejs</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://dev-gwang.github.io/develop/community/8_youtube_study</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://dev-gwang.github.io/develop/community/7_event</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://dev-gwang.github.io/develop/develop/community</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://dev-gwang.github.io/develop/develop/community/2_python_dev</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://dev-gwang.github.io/develop/develop/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://dev-gwang.github.io/develop/develop/community/1_kakao_chatting</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://dev-gwang.github.io/develop/develop/community/3_etc</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://dev-gwang.github.io/develop/develop/community/4_javascript</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://dev-gwang.github.io/develop/develop/community/5_community</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://dev-gwang.github.io/develop/develop/community/6_nodejs</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://dev-gwang.github.io/develop/develop/community/8_youtube_study</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://dev-gwang.github.io/develop/develop/community/7_event</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
