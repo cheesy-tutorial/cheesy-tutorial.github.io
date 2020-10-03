@@ -27,7 +27,7 @@ const config = {
 		      </div>
 		    </a>
 		  </li>`,
-    links: [{ text: 'aaa', link: 'CICD' }],
+    links: [{ text: '', link: '' }],
     search: {
       enabled: false,
       indexName: '',
@@ -38,16 +38,16 @@ const config = {
   },
   sidebar: {
     forcedNavOrder: [
-      '/CICD',
+      '/community', // add trailing slash if enabled above
+      '/개발',
     ],
     collapsedNav: [
-      '/CICD',
-      '/CICD/Bamboo',
-      '/CICD/Bamboo22',
+      '/community', // add trailing slash if enabled above
+      '/개발', // add trailing slash if enabled above
     ],
     links: [{ text: 'Hasura', link: 'https://hasura.io' }],
-    frontline: true,
-    ignoreIndex: false,
+    frontline: false,
+    ignoreIndex: true,
     title:
       "<a href='https://hasura.io/learn/'>graphql </a><div class='greenCircle'></div><a href='https://hasura.io/learn/graphql/react/introduction/'>react</a>",
   },
