@@ -1,7 +1,7 @@
 ---
 title: "6 - NodeJS 공부"
-metaTitle: "Syntax Highlighting is the meta title tag for this page"
-metaDescription: "This is the meta description for this page"
+metaTitle: "NodeJS 공부"
+metaDescription: "NodeJS 공부"
 ---
 
 # 사이트   

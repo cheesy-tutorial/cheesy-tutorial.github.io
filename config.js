@@ -1,16 +1,16 @@
 const config = {
   gatsby: {
-    pathPrefix: '/',
-    siteUrl: 'https://hasura.io',
+    pathPrefix: '/develop',
+    siteUrl: 'https://dev-gwang.github.io/develop',
     gaTrackingId: null,
     trailingSlash: false,
   },
   header: {
     logo: 'https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/brand.svg',
-    logoLink: 'https://hasura.io/learn/',
+    logoLink: 'https://dev-gwang.github.io/develop',
     title:
-      "<a href='https://hasura.io/learn/'><img class='img-responsive' src='https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/learn-logo.svg' alt='Learn logo' /></a>",
-    githubUrl: 'https://github.com/hasura/gatsby-gitbook-boilerplate',
+      "<a href='https://dev-gwang.github.io/develop'><img class='img-responsive' src='https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/learn-logo.svg' alt='Learn logo' /></a>",
+    githubUrl: 'https://github.com/dev-gwang/develop',
     helpUrl: '',
     tweetText: '',
     social: `<li>
@@ -39,23 +39,21 @@ const config = {
   sidebar: {
     forcedNavOrder: [
       '/community', // add trailing slash if enabled above
-      '/개발',
     ],
     collapsedNav: [
       '/community', // add trailing slash if enabled above
-      '/개발', // add trailing slash if enabled above
     ],
-    links: [{ text: 'Hasura', link: 'https://hasura.io' }],
+    links: [{ text: 'devgwang', link: 'https://dev-gwang.github.io/develop' }],
     frontline: false,
     ignoreIndex: true,
     title:
-      "<a href='https://hasura.io/learn/'>graphql </a><div class='greenCircle'></div><a href='https://hasura.io/learn/graphql/react/introduction/'>react</a>",
+      "",
   },
   siteMetadata: {
     title: 'Gatsby Gitbook Boilerplate | Hasura',
     description: 'Documentation built with mdx. Powering hasura.io/learn ',
     ogImage: null,
-    docsLocation: 'https://github.com/hasura/gatsby-gitbook-boilerplate/tree/master/content',
+    docsLocation: 'https://github.com/dev-gwang/develop/tree/develop/content',
     favicon: 'https://graphql-engine-cdn.hasura.io/img/hasura_icon_black.svg',
   },
   pwa: {

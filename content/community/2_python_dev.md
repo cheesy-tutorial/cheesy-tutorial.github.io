@@ -1,7 +1,7 @@
 ---
-title: "2 - 파이썬 개발 관련 사이트 모음"
-metaTitle: "Syntax Highlighting is the meta title tag for this page"
-metaDescription: "This is the meta description for this page"
+title: "2 - 파이썬 개발 공부 사이트 모음"
+metaTitle: "파이썬 개발 공부 사이트 모음"
+metaDescription: "파이썬 개발 공부 사이트 모음"
 ---
 
 # 공부

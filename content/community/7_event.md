@@ -1,7 +1,7 @@
 ---
-title: "7 - 대회 모음"
-metaTitle: "Syntax Highlighting is the meta title tag for this page"
-metaDescription: "This is the meta description for this page"
+title: "7 - 개발 대회 모음"
+metaTitle: "개발 대회 모음"
+metaDescription: "개발 대회 모음"
 ---
 
 |이름|주소|비고|

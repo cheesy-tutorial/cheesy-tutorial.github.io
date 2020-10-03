@@ -1,7 +1,7 @@
 ---
 title: "8 - YouTube 강의 및 노동요 모음"
-metaTitle: "Syntax Highlighting is the meta title tag for this page"
-metaDescription: "This is the meta description for this page"
+metaTitle: "YouTube 강의 및 노동요 모음"
+metaDescription: "YouTube 강의 및 노동요 모음"
 ---
 
 # YouTube 개발 강의
@@ -16,7 +16,7 @@ metaDescription: "This is the meta description for this page"
 |프로처럼 세팅하자! iTerm, VSC 셋업 Setting up iTerm and VSC|https://www.youtube.com/watch?v=GZzBH3ZRP4s|개발툴|
 |도커(Docker) 활용 및 배포 자동화 실전 초급|https://www.youtube.com/playlist?list=PLRx0vPvlEmdChjc6N3JnLaX-Gihh5pHcx|Docker,배포|
 
-# YouTube 개발 노둉요
+# YouTube 개발 노동요
 
 |이름|주소|비고|
 |---|---------------------|-----|

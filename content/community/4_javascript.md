@@ -1,7 +1,7 @@
 ---
 title: "4 - 자바스크립트 (Javascript) 개발 참고 사이트"
-metaTitle: "Syntax Highlighting is the meta title tag for this page"
-metaDescription: "This is the meta description for this page"
+metaTitle: "자바스크립트 (Javascript) 개발 참고 공부 사이트"
+metaDescription: "자바스크립트 (Javascript) 개발 참고 공부 사이트"
 ---
 
 

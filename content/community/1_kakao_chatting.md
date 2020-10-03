@@ -1,7 +1,7 @@
 ---
 title: "1 - 카카오톡 커뮤니티 오픈 채팅방 모음"
-metaTitle: "Syntax Highlighting is the meta title tag for this page"
-metaDescription: "This is the meta description for this page"
+metaTitle: "카카오톡 개발 커뮤니티 오픈 채팅방 리스트 모음집"
+metaDescription: "카카오톡 개발 커뮤니티 오픈 채팅방 리스트 정리 되어 있음"
 ---
 
 # 개발

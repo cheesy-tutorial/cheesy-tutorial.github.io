@@ -1,7 +1,7 @@
 ---
 title: "5 - 커뮤니티 사이트 모음"
-metaTitle: "Syntax Highlighting is the meta title tag for this page"
-metaDescription: "This is the meta description for this page"
+metaTitle: "필수 개발 커뮤니티 사이트 모음"
+metaDescription: "필수 개발 커뮤니티 사이트 리스트"
 ---
 
 |이름|주소|비고|

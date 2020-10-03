@@ -1,7 +1,7 @@
 ---
 title: "3 - 기타 개발 참고 사이트"
-metaTitle: "Syntax Highlighting is the meta title tag for this page"
-metaDescription: "This is the meta description for this page"
+metaTitle: "기타 개발 참고 사이트"
+metaDescription: "개발에 필요한 기타 참고 사이트 리스트가 정리되어 있음"
 ---
 
 |이름|주소|비고|
