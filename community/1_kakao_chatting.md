@@ -1,0 +1,24 @@
+---
+title: "1 - 카카오톡 커뮤니티 오픈 채팅방 모음"
+metaTitle: "Syntax Highlighting is the meta title tag for this page"
+metaDescription: "This is the meta description for this page"
+---
+
+# 개발
+|이름|주소|비고|
+|---|---------------------|-----|
+|파이썬 처음처럼|https://open.kakao.com/o/gG6kgabb|파이썬|
+|Node.js를 공부하는 사람들|https://open.kakao.com/o/gtE0dqsb|NodeJS|
+|프론트개발자(Front-developer)|https://open.kakao.com/o/ghwYcRA|프론트엔드|
+|풀스택 연구소 (Q&A, 연구얘기)|https://open.kakao.com/o/g6tFO3r|프론트엔드, 백엔드, 기타|
+|리눅스, 네트워크 스터디&아무말 대잔치|https://open.kakao.com/o/gzMTxuFb|리눅스|
+
+# 가상화
+|이름|주소|비고|
+|---|---------------------|-----|
+|도커(Docker) 스터디|https://open.kakao.com/o/gvnAGsM|도커|
+
+# 행사
+|이름|주소|비고|
+|---|---------------------|-----|
+|IT행사 알리미|https://open.kakao.com/o/gFRoO2B|기타|
