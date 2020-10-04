@@ -182,15 +182,11 @@ const Header = ({ location, isDarkThemeActive, toggleActiveTheme }) => (
                   </li>
                 ) : null}
                 <li>
-                  <DarkModeSwitch
-                    isDarkThemeActive={isDarkThemeActive}
-                    toggleActiveTheme={toggleActiveTheme}
-                  />
                 </li>
               </ul>
             </div>
           </nav>
-          <StyledBgDiv isDarkThemeActive={isDarkThemeActive}>
+          <StyledBgDiv>
             <div className={'navBarDefault removePadd'}>
               <span
                 onClick={myFunction}

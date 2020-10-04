@@ -1,5 +1,5 @@
 require("dotenv").config();
-const queries = require("./configs/utils/algolia");
+const queries = require("./src/utils/algolia");
 const config = require("./config");
 const plugins = [
   'gatsby-plugin-sitemap',
@@ -7,7 +7,7 @@ const plugins = [
   {
     resolve: `gatsby-plugin-layout`,
     options: {
-        component: require.resolve(`./configs/templates/docs.js`)
+        component: require.resolve(`./src/templates/docs.js`)
     }
   },
   'gatsby-plugin-emotion',
@@ -70,7 +70,7 @@ if (config.pwa && config.pwa.enabled && config.pwa.manifest) {
   plugins.push({
     resolve: 'gatsby-plugin-offline',
     options: {
-      appendScript: require.resolve(`./configs/custom-sw-code.js`),
+      appendScript: require.resolve(`./src/custom-sw-code.js`),
     },
   });
 } else {

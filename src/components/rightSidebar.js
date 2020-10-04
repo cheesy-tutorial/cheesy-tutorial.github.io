@@ -40,8 +40,9 @@ const SidebarLayout = ({ location }) => (
                   const itemId = innerItem.title
                     ? innerItem.title.replace(/\s+/g, '').toLowerCase()
                     : '#';
-
+                  
                   return (
+                    
                     <ListItem key={index} to={`#${itemId}`} level={1}>
                       {innerItem.title}
                     </ListItem>

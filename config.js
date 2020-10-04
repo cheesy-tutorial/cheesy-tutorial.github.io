@@ -1,7 +1,7 @@
 const config = {
   gatsby: {
     pathPrefix: '/develop',
-    siteUrl: 'https://dev-gwang.github.io/develop',
+    siteUrl: 'https://dev-gwang.github.io',
     gaTrackingId: null,
     trailingSlash: false,
   },
@@ -29,7 +29,7 @@ const config = {
 		  </li>`,
     links: [{ text: '', link: '' }],
     search: {
-      enabled: false,
+      enabled: true,
       indexName: '',
       algoliaAppId: process.env.GATSBY_ALGOLIA_APP_ID,
       algoliaSearchKey: process.env.GATSBY_ALGOLIA_SEARCH_KEY,
@@ -39,8 +39,10 @@ const config = {
   sidebar: {
     forcedNavOrder: [
       '/community', // add trailing slash if enabled above
+      '/study', // add trailing slash if enabled above
     ],
     collapsedNav: [
+      '/study', // add trailing slash if enabled above
       '/community', // add trailing slash if enabled above
     ],
     links: [{ text: 'devgwang', link: 'https://dev-gwang.github.io/develop' }],
