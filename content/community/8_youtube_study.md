@@ -1,5 +1,5 @@
 ---
-title: "8 - YouTube 강의 및 노동요 모음"
+title: "008 YouTube 강의 및 노동요 모음"
 metaTitle: "YouTube 강의 및 노동요 모음"
 metaDescription: "YouTube 강의 및 노동요 모음"
 ---

@@ -43,10 +43,9 @@ function myFunction() {
 const StyledBgDiv = styled('div')`
   height: 60px;
   box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
-  background-color: #f8f8f8;
   position: relative;
   display: none;
-  background: ${props => (props.isDarkThemeActive ? '#001932' : undefined)};
+  background: '#001932';
 
   @media (max-width: 767px) {
     display: block;
@@ -76,7 +75,7 @@ const Header = ({ location, isDarkThemeActive, toggleActiveTheme }) => (
       }
     `}
     render={data => {
-      const logoImg = require('./images/logo.svg');
+      const logoImg = require('./images/dev-gwang.png');
 
       const twitter = require('./images/twitter.svg');
 

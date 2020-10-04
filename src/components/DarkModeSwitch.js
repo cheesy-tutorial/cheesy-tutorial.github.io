@@ -11,16 +11,18 @@ const StyledSwitch = styled('div')`
   padding: 0 20px 0 25px;
 `;
 
-export const DarkModeSwitch = ({ isDarkThemeActive, toggleActiveTheme }) => (
-  <StyledSwitch>
-    <label id="switch" className="switch">
-      <input
-        type="checkbox"
-        id="slider"
-        onChange={toggleActiveTheme}
-        checked={isDarkThemeActive ? false : true}
-      />
-      <span className="slider round"></span>
-    </label>
-  </StyledSwitch>
+export const DarkModeSwitch = ({ toggleActiveTheme }) => (
+  alert('a')
+
+  // <StyledSwitch>
+  //   <label id="switch" className="switch">
+  //     <input
+  //       type="checkbox"
+  //       id="slider"
+  //       onChange={toggleActiveTheme}
+  //       checked={isDarkThemeActive ? false : true}
+  //     />
+  //     <span className="slider round"></span>
+  //   </label>
+  // </StyledSwitch>
 );

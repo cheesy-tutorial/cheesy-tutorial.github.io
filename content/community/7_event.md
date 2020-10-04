@@ -1,5 +1,5 @@
 ---
-title: "7 - 개발 대회 모음"
+title: "007 개발 대회 모음"
 metaTitle: "개발 대회 모음"
 metaDescription: "개발 대회 모음"
 ---

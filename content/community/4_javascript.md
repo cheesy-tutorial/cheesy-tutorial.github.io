@@ -1,5 +1,5 @@
 ---
-title: "4 - 자바스크립트 (Javascript) 개발 참고 사이트"
+title: "004 자바스크립트 (Javascript) 개발 참고 사이트"
 metaTitle: "자바스크립트 (Javascript) 개발 참고 공부 사이트"
 metaDescription: "자바스크립트 (Javascript) 개발 참고 공부 사이트"
 ---

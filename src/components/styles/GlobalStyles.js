@@ -577,10 +577,6 @@ export const baseStyles = injectGlobal`
     padding: 0;
   }
 
-  table tr:nth-child(2n) {
-    background-color: #f8f8f8;
-  }
-
   table tr th {
     font-weight: bold;
     border: 1px solid #cccccc;

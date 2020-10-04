@@ -1,5 +1,5 @@
 ---
-title: "6 - NodeJS 공부"
+title: "006 NodeJS 공부"
 metaTitle: "NodeJS 공부"
 metaDescription: "NodeJS 공부"
 ---

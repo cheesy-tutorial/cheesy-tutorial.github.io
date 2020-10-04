@@ -22,9 +22,11 @@ class ThemeProvider extends React.Component {
   };
 
   toggleActiveTheme = () => {
-    this.setState(prevState => ({ isDarkThemeActive: !prevState.isDarkThemeActive }));
+    alert('aa')
+    // this.setState(prevState => ({ isDarkThemeActive: !prevState.isDarkThemeActive }));
+    window.localStorage.setItem('isDarkThemeActive', 'true');
 
-    window.localStorage.setItem('isDarkThemeActive', JSON.stringify(!this.state.isDarkThemeActive));
+    // window.localStorage.setItem('isDarkThemeActive', JSON.stringify(!this.state.isDarkThemeActive));
   };
 
   render() {
@@ -32,7 +34,7 @@ class ThemeProvider extends React.Component {
 
     const { isDarkThemeActive } = this.state;
 
-    const currentActiveTheme = isDarkThemeActive ? darkTheme : lightTheme;
+    const currentActiveTheme = darkTheme;
 
     return (
       <div>
