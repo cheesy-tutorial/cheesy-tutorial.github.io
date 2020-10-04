@@ -39,14 +39,13 @@ const config = {
   sidebar: {
     forcedNavOrder: [
       '/community', // add trailing slash if enabled above
-      '/study', // add trailing slash if enabled above
     ],
     collapsedNav: [
-      '/study', // add trailing slash if enabled above
       '/community', // add trailing slash if enabled above
+      '/study', // add trailing slash if enabled above
     ],
     links: [{ text: 'devgwang', link: 'https://dev-gwang.github.io/develop' }],
-    frontline: false,
+    frontline: true,
     ignoreIndex: true,
     title:
       "",

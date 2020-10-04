@@ -711,7 +711,6 @@ export const baseStyles = injectGlobal`
   }
 
   .paragraph {
-    margin: 16px 0px 32px;
     line-height: 1.625;
   }
 
