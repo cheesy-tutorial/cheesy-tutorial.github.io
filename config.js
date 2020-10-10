@@ -42,6 +42,7 @@ const config = {
     collapsedNav: [
       '/community', // add trailing slash if enabled above
       '/study', // add trailing slash if enabled above
+      '/infra_tools', // add trailing slash if enabled above
     ],
     links: [{ text: 'devgwang', link: 'https://dev-gwang.github.io/develop' }],
     frontline: true,
