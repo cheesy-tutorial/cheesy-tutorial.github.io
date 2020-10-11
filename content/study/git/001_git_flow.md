@@ -13,7 +13,7 @@ Git Flow에 대해 정리되어 있습니다.
 - GitFlow는 Vincent Driessen 이라는 개발자가 처음 제시한 Git 기반 협업 Flow입니다. 
 - Git Branch를 사용하여 프로젝트의 규모가 클수록 Git WorkFlow를 사용하여 적용을 하고 있으며 더 나아가 CI/CD와 같은 도구에서도 이를 사용하고 있습니다.
   - 릴리즈 주기가 정해져있는 프로젝트에 이상적으로 사용
-  - 그림 (출처 : https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow#:~:text=Gitflow%20Workflow%20is%20a%20Git,designed%20around%20the%20project%20release.&text=In%20addition%20to%20feature%20branches,%2C%20maintaining%2C%20and%20recording%20releases.)
+  - 그림 (출처 : [Atlassian Git Flow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow))
     ![ex_screenshot](./assets//git-flow-atlassian.svg)
 
   
@@ -96,8 +96,3 @@ Git Flow에 대해 정리되어 있습니다.
 
   - Merge이 성공되면 develop 브랜치로 merge 됩니다.
     ![ex_screenshot](./assets//git-test-10.png)
-
-
-
-# 4. Git Flow 협업시 지켜야할 것
-  - 공동으로 사용하는 Branch는 force commit은 절대로 사용하면 안 됩니다.
