@@ -20,7 +20,7 @@
 <url> <loc>https://dev-gwang.github.io/develop/community/5_community</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://dev-gwang.github.io/develop/community/7_event</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://dev-gwang.github.io/develop/community/8_youtube_study</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://dev-gwang.github.io/develop/study/git/001_git_flow</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://dev-gwang.github.io/develop/study/git/001_git_workflow</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://dev-gwang.github.io/develop/infra_tools</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://dev-gwang.github.io/develop/infra_tools/Vagrant</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://dev-gwang.github.io/develop/infra_tools/Vagrant/001_how_to_snapshot</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
