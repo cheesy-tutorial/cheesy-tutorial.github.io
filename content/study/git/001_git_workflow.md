@@ -1,19 +1,19 @@
 ---
-title: "001 Git Flow"
+title: "001 Git WorkFlow"
 metaTitle: "카카오톡 개발 커뮤니티 오픈 채팅방 리스트 모음집"
 metaDescription: "카카오톡 개발 커뮤니티 오픈 채팅방 리스트 정리 되어 있음"
 ---
 
 # 1. Getting Started
-Git Flow에 대해 정리되어 있습니다.
+Git WorkFlow에 대해 정리되어 있습니다.
 <br/>
 <br/>
 
-# 2. Git Flow 이란
+# 2. Git WorkFlow 이란
 - GitFlow는 Vincent Driessen 이라는 개발자가 처음 제시한 Git 기반 협업 Flow입니다. 
 - Git Branch를 사용하여 프로젝트의 규모가 클수록 Git WorkFlow를 사용하여 적용을 하고 있으며 더 나아가 CI/CD와 같은 도구에서도 이를 사용하고 있습니다.
   - 릴리즈 주기가 정해져있는 프로젝트에 이상적으로 사용
-  - 그림 (출처 : [Atlassian Git Flow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow))
+  - 그림 (출처 : [Atlassian Git WorkFlow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow))
     ![ex_screenshot](./assets//git-flow-atlassian.svg)
 
   
@@ -40,7 +40,7 @@ Git Flow에 대해 정리되어 있습니다.
   
   <br/>
   
-  - Git Flow 예시
+  - Git WorkFlow 예시
     - User 삭제 API 기능을 추가할 때 (feature/api-user-remove 브랜치)
       - Release 브랜치를 사용하지 않을 때
         ![ex_screenshot](./assets//api-v1.png)
@@ -51,7 +51,7 @@ Git Flow에 대해 정리되어 있습니다.
 
 <br/>
 
-# 3. Git Flow 적용 순서
+# 3. Git WorkFlow 적용 순서
   - develop 브랜치 checkout
     ``` bash
     git checkout develop
