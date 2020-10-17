@@ -1,0 +1,71 @@
+---
+title: "005 Git 저장소 Branch 구성하기"
+metaTitle: "Git Branch 사용 방법에 대해 정리되어 있음"
+metaDescription: "Git Branch 사용 방법에 대해 정리되어 있음"
+---
+
+# 1. Getting Started
+Git Branch를 사용하는 방법에 대해 정리되어 있습니다.
+
+<br/>
+<br/>
+
+# 2. Git 저장소 Branch 병합하기
+- 테스트 Branch 생성하기
+  - Git Branch 생성 명령어
+    ``` bash
+    git branch test1
+    git branch test2
+    git branch test3
+    ```
+  - 생성한 Branch 리스트 확인하기
+    ``` bash
+    git branch
+    ```
+    ![ex_screenshot](./assets/git_branch_test_result.png)
+
+# 3. 병합 테스트
+test1 브랜치에서 작업 후, 작업된 내용을 test2에 병합하기
+- test1 브랜치에서 작업
+  ``` bash
+  ## 내용 추가하기
+  echo "테스트1 브랜치에서 작성한 내용" > README.md
+  ```
+  ![ex_screenshot](./assets/cat_readme.png)
+- 커밋하기
+  ``` bash
+  git add README.md
+  git commit -m "README.md 파일 생성 및 내용 작성"
+  ```
+  ![ex_screenshot](./assets/git_merge_test_commit_1.png)
+- 커밋 로그 확인
+  ``` bash
+  git log
+  ```
+  ![ex_screenshot](./assets/git_log_check_1.png)
+
+# 4. test1 브랜치에서 작업한 내용을 test2 브랜치로 병합하기
+- test2 브랜치로 이동하기
+  ``` bash
+  git checkout test2
+  ```
+
+- 병합 명령어
+  ``` bash
+  ## git merge <합치고 싶은 브랜치 이름>
+
+  git merge test1
+  ```
+  ![ex_screenshot](./assets/git_merge_1.png)
+
+- git log 확인해보기
+  ``` bash
+  git log
+  ```
+  ![ex_screenshot](./assets/git_merge_result_2.png)
+
+- README.md에서 병합된 내용 확인하기
+  ``` bash
+  cat README.md
+  ```
+  ![ex_screenshot](./assets/git_merge_2.png)
