@@ -1,7 +1,7 @@
 ---
-title: "005 Git 저장소 Branch 구성하기"
-metaTitle: "Git Branch 사용 방법에 대해 정리되어 있음"
-metaDescription: "Git Branch 사용 방법에 대해 정리되어 있음"
+title: "Git 저장소 Branch 병합하기"
+metaTitle: "Git Branch 병합 방법"
+metaDescription: "Git Branch 병합 방법에 대해 정리되어 있음"
 ---
 
 # 1. Getting Started

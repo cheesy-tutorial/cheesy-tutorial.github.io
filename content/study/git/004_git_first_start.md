@@ -1,5 +1,5 @@
 ---
-title: "004 Git 첫 프로젝트 시작하기"
+title: "Git 첫 프로젝트 시작하기"
 metaTitle: "Git 프로젝트를 시작하는 방법에 대해 정리되어 있음"
 metaDescription: "Git 프로젝트를 시작하는 방법에 대해 정리되어 있음"
 ---

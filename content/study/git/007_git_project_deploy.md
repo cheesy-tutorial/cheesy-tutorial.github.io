@@ -1,6 +1,6 @@
 ---
-title: "006 Github 저장소 배포 방법"
-metaTitle: "Github 배포 방법"
+title: "Github 저장소 배포 방법"
+metaTitle: "Github 저장소 배포 방법"
 metaDescription: "Github 배포 방법 정리"
 ---
 

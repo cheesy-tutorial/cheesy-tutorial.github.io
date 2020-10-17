@@ -1,6 +1,6 @@
 ---
-title: "005 Git 저장소 Branch 구성하기"
-metaTitle: "Git Branch 사용 방법에 대해 정리되어 있음"
+title: "Git 저장소 Branch 구성하기"
+metaTitle: "Git Branch 사용 방법"
 metaDescription: "Git Branch 사용 방법에 대해 정리되어 있음"
 ---
 
