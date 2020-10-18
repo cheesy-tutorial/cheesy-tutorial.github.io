@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url> <loc>https://dev-gwang.github.io/community</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://dev-gwang.github.io/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://dev-gwang.github.io/infra_tools</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://dev-gwang.github.io/study</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://dev-gwang.github.io/os</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -45,4 +44,5 @@
 <url> <loc>https://dev-gwang.github.io/community/6_nodejs</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://dev-gwang.github.io/study/python/003_how_to_python_rich</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://dev-gwang.github.io/study/python/004_how_to_data_crawling</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://dev-gwang.github.io/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
