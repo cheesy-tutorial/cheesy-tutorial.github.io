@@ -7,7 +7,6 @@
 <url> <loc>https://dev-gwang.github.io/community/1_kakao_chatting</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://dev-gwang.github.io/community/2_python_dev</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://dev-gwang.github.io/community/3_etc</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://dev-gwang.github.io/infra_tools/Vagrant</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://dev-gwang.github.io/os/Linux</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://dev-gwang.github.io/os/Windows</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://dev-gwang.github.io/community/4_javascript</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -45,4 +44,6 @@
 <url> <loc>https://dev-gwang.github.io/study/python/003_how_to_python_rich</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://dev-gwang.github.io/study/python/004_how_to_data_crawling</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://dev-gwang.github.io/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://dev-gwang.github.io/infra_tools/Docker</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://dev-gwang.github.io/infra_tools/Vagrant</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
