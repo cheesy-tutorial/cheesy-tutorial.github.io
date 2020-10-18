@@ -1,7 +1,7 @@
 ---
 title: "Rich 모듈 사용 방법"
-metaTitle: "카카오톡 개발 커뮤니티 오픈 채팅방 리스트 모음집"
-metaDescription: "카카오톡 개발 커뮤니티 오픈 채팅방 리스트 정리 되어 있음"
+metaTitle: "파이썬 Rich 모듈 사용 방법"
+metaDescription: "파이썬 (Python) Rich 모듈 사용 방법"
 ---
 
 # 1. Getting Started

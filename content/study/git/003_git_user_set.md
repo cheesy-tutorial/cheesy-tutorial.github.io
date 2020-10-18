@@ -1,6 +1,6 @@
 ---
-title: "003 Git 유저 정보 설정"
-metaTitle: "Git을 내 컴퓨터에 설치하고 처음 사용자 설정하는 방법에 대해 정리되어 있음"
+title: "Git 유저 정보 설정"
+metaTitle: "Git을 사용자 설정하는 방법"
 metaDescription: "Git을 내 컴퓨터에 설치하고 처음 사용자 설정하는 방법에 대해 정리되어 있음"
 ---
 

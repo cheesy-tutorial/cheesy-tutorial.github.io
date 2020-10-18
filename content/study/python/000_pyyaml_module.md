@@ -1,7 +1,7 @@
 ---
 title: "Pyyaml 모듈 사용 방법"
-metaTitle: "카카오톡 개발 커뮤니티 오픈 채팅방 리스트 모음집"
-metaDescription: "카카오톡 개발 커뮤니티 오픈 채팅방 리스트 정리 되어 있음"
+metaTitle: "Pyyaml 모듈 사용 방법"
+metaDescription: "Pyyaml 모듈 사용 방법"
 ---
 
 

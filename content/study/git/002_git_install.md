@@ -1,7 +1,7 @@
 ---
-title: "002 Git 설치 방법"
-metaTitle: "Git을 내 컴퓨터에 설치하고 처음 사용하는 방법에 대해 정리되어 있음"
-metaDescription: "Git을 내 컴퓨터에 설치하고 처음 사용하는 방법에 대해 정리되어 있음"
+title: "Git 설치 방법"
+metaTitle: "Git을 내 컴퓨터에 설치하고 처음 사용하는 방법"
+metaDescription: "Git을 내 컴퓨터에 설치하고 처음 사용하는 방법에 대해 정리되어 있습니다."
 ---
 
 # 1. Getting Started
