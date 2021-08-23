@@ -28,7 +28,7 @@ Github에서 제공하는 Github Gist를 사용하여 Shell에서 동작할 간�
     - 버튼을 누르면, 파일의 링크로 이동되어 원본 소스를 볼 수 있습니다.
         ``` bash
         ## 링크
-        https://gist.githubusercontent.com/dev-gwang/d769e7660c9212e62a97911cd214b8d2/raw/f43362189e3e1110c712ea667b370d84b96815e7/test.sh
+        https://gist.githubusercontent.com/cheesy-tutorial/d769e7660c9212e62a97911cd214b8d2/raw/f43362189e3e1110c712ea667b370d84b96815e7/test.sh
         ```
 
 # 3. Vagrantfile Shell 추가
@@ -36,7 +36,7 @@ Vagrantfile에서 제공하는 Shell의 Path 옵션을 사용하여, 링크를 �
 
 - Vagrantfile
     ``` ruby
-    config.vm.provision "shell", path: "https://gist.githubusercontent.com/dev-gwang/d769e7660c9212e62a97911cd214b8d2/raw/f43362189e3e1110c712ea667b370d84b96815e7/test.sh"
+    config.vm.provision "shell", path: "https://gist.githubusercontent.com/cheesy-tutorial/d769e7660c9212e62a97911cd214b8d2/raw/f43362189e3e1110c712ea667b370d84b96815e7/test.sh"
     ```
     
 - vagrant 실행
