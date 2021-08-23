@@ -1,16 +1,16 @@
 const config = {
   gatsby: {
     pathPrefix: '/develop',
-    siteUrl: 'https://dev-gwang.github.io/develop',
+    siteUrl: 'https://cheesy.github.io/develop',
     gaTrackingId: null,
     trailingSlash: false,
   },
   header: {
     logo: 'https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/brand.svg',
-    logoLink: 'https://dev-gwang.github.io/develop',
+    logoLink: 'https://cheesy.github.io/develop',
     title:
-      "<a href='https://dev-gwang.github.io/develop'><img class='img-responsive' src='https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/learn-logo.svg' alt='Learn logo' /></a>",
-    githubUrl: 'https://github.com/dev-gwang/develop',
+      "<a href='https://cheesy.github.io/develop'><img class='img-responsive' src='https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/learn-logo.svg' alt='Learn logo' /></a>",
+    githubUrl: 'https://github.com/cheesy/develop',
     helpUrl: '',
     tweetText: '',
     social: `<li>
@@ -43,7 +43,7 @@ const config = {
     collapsedNav: [
       '/community', // add trailing slash if enabled above
     ],
-    links: [{ text: 'devgwang', link: 'https://dev-gwang.github.io/develop' }],
+    links: [{ text: 'cheesy', link: 'https://cheesy.github.io/develop' }],
     frontline: false,
     ignoreIndex: true,
     title:
@@ -53,7 +53,7 @@ const config = {
     title: 'Gatsby Gitbook Boilerplate | Hasura',
     description: 'Documentation built with mdx. Powering hasura.io/learn ',
     ogImage: null,
-    docsLocation: 'https://github.com/dev-gwang/develop/tree/develop/content',
+    docsLocation: 'https://github.com/cheesy/develop/tree/develop/content',
     favicon: 'https://graphql-engine-cdn.hasura.io/img/hasura_icon_black.svg',
   },
   pwa: {
