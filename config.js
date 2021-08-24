@@ -48,7 +48,7 @@ const config = {
       '/Vagrant', // add trailing slash if enabled above
       '/Windows', // add trailing slash if enabled above
     ],
-    links: [{ text: 'devgwang', link: 'https://cheesy-tutorial.github.io' }],
+    links: [],
     frontline: true,
     ignoreIndex: true,
     title:

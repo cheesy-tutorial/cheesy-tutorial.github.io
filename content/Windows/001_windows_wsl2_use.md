@@ -1,7 +1,7 @@
 ---
-title: "Bash 5.0 설치 방법"
-metaTitle: "리눅스에서 Bash 5.0 설치하기"
-metaDescription: "리눅스에서 Bash 5.0 설치하기"
+title: "Windows에서 WSL2 사용 방법"
+metaTitle: "Windows에서 WSL2 사용 방법"
+metaDescription: "Windows에서 WSL2 사용 방법"
 ---
 
 # 1. Getting Started
