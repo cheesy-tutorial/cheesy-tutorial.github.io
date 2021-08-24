@@ -41,8 +41,12 @@ const config = {
     ],
     collapsedNav: [
       '/community', // add trailing slash if enabled above
-      '/study', // add trailing slash if enabled above
-      '/infra_tools', // add trailing slash if enabled above
+      '/eletron_vue', // add trailing slash if enabled above
+      '/git', // add trailing slash if enabled above
+      '/Linux', // add trailing slash if enabled above
+      '/python', // add trailing slash if enabled above
+      '/Vagrant', // add trailing slash if enabled above
+      '/Windows', // add trailing slash if enabled above
     ],
     links: [{ text: 'devgwang', link: 'https://cheesy-tutorial.github.io' }],
     frontline: true,

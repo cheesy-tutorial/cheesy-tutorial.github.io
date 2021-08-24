@@ -7,11 +7,16 @@ import { Layout, Link } from '$components';
 import NextPrevious from '../components/NextPrevious';
 import config from '../../config';
 import { Edit, StyledHeading, StyledMainWrapper } from '../components/styles/Docs';
+import { DiscussionEmbed } from "disqus-react"
 
 const forcedNavOrder = config.sidebar.forcedNavOrder;
 
 export default class MDXRuntimeTest extends Component {
   render() {
+    const disqusConfig = {
+      shortname: "cheesy-tutorial",
+      config: { identifier: title },
+    }
     const { data } = this.props;
 
     if (!data) {
@@ -106,6 +111,7 @@ export default class MDXRuntimeTest extends Component {
         <div className={'addPaddTopBottom'}>
           <NextPrevious mdx={mdx} nav={nav} />
         </div>
+        <DiscussionEmbed {...disqusConfig} />
       </Layout>
     );
   }

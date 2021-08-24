@@ -2,6 +2,12 @@ require("dotenv").config();
 const queries = require("./src/utils/algolia");
 const config = require("./config");
 const plugins = [
+  {
+    resolve: `gatsby-plugin-disqus`,
+    options: {
+        shortname: `cheesy-tutorial`
+    }
+},
   'gatsby-plugin-sitemap',
   'gatsby-plugin-sharp',
   {
