@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url> <loc>https://cheesy-tutorial.github.io/git</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cheesy-tutorial.github.io/Linux</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cheesy-tutorial.github.io/Windows</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cheesy-tutorial.github.io/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cheesy-tutorial.github.io/community/1_kakao_chatting</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -11,8 +10,6 @@
 <url> <loc>https://cheesy-tutorial.github.io/community/6_nodejs</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cheesy-tutorial.github.io/community/7_event</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cheesy-tutorial.github.io/community/8_youtube_study</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cheesy-tutorial.github.io/Linux/001_bash_5_0_install</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cheesy-tutorial.github.io/Linux/002_centos_kickstart_ftp_install</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cheesy-tutorial.github.io/git/001_git_workflow</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cheesy-tutorial.github.io/git/002_git_install</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cheesy-tutorial.github.io/git/003_git_user_set</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
