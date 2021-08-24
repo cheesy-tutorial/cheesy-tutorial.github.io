@@ -25,7 +25,10 @@ export default class MDXRuntimeTest extends Component {
         siteMetadata: { docsLocation, title },
         disqusConfig = {
           shortname: "cheesy-tutorial",
-          config: { identifier: title }
+          disqusConfig : {
+            indentifier: docsLocation,
+            title      : title
+           }
         }
       },
     } = data;
