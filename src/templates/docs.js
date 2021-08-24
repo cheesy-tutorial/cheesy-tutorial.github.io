@@ -13,11 +13,6 @@ const forcedNavOrder = config.sidebar.forcedNavOrder;
 
 export default class MDXRuntimeTest extends Component {
   render() {
-    const title = "";
-    const disqusConfig = {
-      shortname: "cheesy-tutorial",
-      config: { identifier: title },
-    };
     const { data } = this.props;
 
     if (!data) {
@@ -28,6 +23,10 @@ export default class MDXRuntimeTest extends Component {
       mdx,
       site: {
         siteMetadata: { docsLocation, title },
+        disqusConfig = {
+          shortname: "cheesy-tutorial",
+          config: { identifier: title }
+        }
       },
     } = data;
 
