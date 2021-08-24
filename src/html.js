@@ -8,6 +8,10 @@ export default class HTML extends React.Component {
       <html {...this.props.htmlAttributes} lang="en">
         <head>
           <meta charSet="utf-8" />
+          <meta
+    name="google-site-verification"
+    content="TM_e3wHYrj7gEl7wOWXL58Zqg8Ezwj4PO_XnQfSbYis"
+  />
           <meta httpEquiv="x-ua-compatible" content="ie=edge" />
           <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
           {config.siteMetadata.ogImage ? (
